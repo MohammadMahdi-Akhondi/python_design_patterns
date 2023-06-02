@@ -7,9 +7,9 @@ It provides small projects and practical examples to help you become familiar wi
 
 This repository is suitable for individuals who seek to improve their skills and make progress in software design. 
 
-## Projects
+## Examples
 
-The projects included in this repository are designed to be lightweight and educational, without requiring heavy implementation. 
+The examples included in this repository are designed to be lightweight and educational, without requiring heavy implementation. 
 
 ## Open Source
 
